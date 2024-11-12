@@ -5,14 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <ATV60>Product Page</ATV60>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 20px;
-        }
-        .product { <img src="Screenshot%202024-11-13%20at%2000.07.51.png" alt="ATV A60">
+        b { <img src="Screenshot%202024-11-13%20at%2000.07.51.png" alt="ATV A60">
 
 </head>
 <body>
