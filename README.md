@@ -14,34 +14,6 @@
         }
         .product { <img src="Screenshot%202024-11-13%20at%2000.07.51.png" alt="ATV A60">
 
-            background-color: #ffffff;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            display: inline-block;
-            padding: 20px;
-            max-width: 400px;
-        }
-        .product img {
-            width: 100%;
-            height: auto;
-            border-radius: 10px;
-        }
-        .product h1 {
-            font-size: 24px;
-            margin: 15px 0 5px;
-        }
-        .product p {
-            margin: 5px 0;
-            font-size: 18px;
-            color: #555;
-        }
-        .price {
-            font-size: 20px;
-            color: #28a745;
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
     <div class="product">
