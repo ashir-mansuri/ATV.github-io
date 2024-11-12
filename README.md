@@ -12,7 +12,8 @@
             margin: 0;
             padding: 20px;
         }
-        .product {
+        .product { <img src="Screenshot%202024-11-13%20at%2000.07.51.png" alt="ATV A60">
+
             background-color: #ffffff;
             border: 1px solid #ddd;
             border-radius: 10px;
