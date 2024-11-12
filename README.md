@@ -44,7 +44,7 @@
 </head>
 <body>
     <div class="product">
-        <!-- Replace with the correct image path -->
+       Screenshot 2024-11-13 at 00.07.51.png
         <img src="images/product1.jpg" alt="ATV A60">
         <h1>ATV A60</h1>
         <p>Article Number: 12345</p>
