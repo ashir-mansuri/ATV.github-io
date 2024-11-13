@@ -1,7 +1,7 @@
 import qrcode
 
 # URL of the product page
-url = "https://tonyflo.github.io/"
+url = "README.md"
 
 # Generate QR code
 qr = qrcode.QRCode(
